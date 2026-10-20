@@ -40,21 +40,11 @@
 
 ## 📊 Minha evolução no GitHub
 
-<p align="center">
-  <img
-    width="100%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU-USUARIO&theme=github_dark"
-    alt="Histórico de contribuições"
-  >
-</p>
+## 📊 Minha evolução no GitHub
 
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br"
-    alt="Estatísticas do GitHub"
-  >
-</p>
+![Histórico de contribuições](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaosilva&theme=github_dark)
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=joaosilva&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br)
 
 ## 🌱 Minha jornada
 
