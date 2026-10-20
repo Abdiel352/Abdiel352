@@ -1,0 +1,38 @@
+name: Atualizar gráfico de contribuições
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * 0"
+
+permissions:
+  contents: write
+
+jobs:
+  gerar-grafico:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Gerar gráfico
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: Abdiel352
+        run: node scripts/gerar-contribuicoes.js
+
+      - name: Salvar gráfico atualizado
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/contribuicoes-por-ano.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: atualizar gráfico de contribuições"
+            git push
+          fi
