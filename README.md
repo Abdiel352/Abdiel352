@@ -42,9 +42,9 @@
 
 ## 📊 Minha evolução no GitHub
 
-![Histórico de contribuições](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joaosilva&theme=github_dark)
+![Histórico de contribuições](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdiel352&theme=github_dark)
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=joaosilva&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Abdiel352&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br)
 
 ## 🌱 Minha jornada
 
