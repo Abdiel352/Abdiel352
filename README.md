@@ -1,16 +1,77 @@
-## Hi there 👋
+<h1 align="center">Olá! Eu sou o Abdiel 👋</h1>
 
-<!--
-**Abdiel352/Abdiel352** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Desenvolvedor em formação, apaixonado por tecnologia e resolução de problemas.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Sobre mim
+
+- 🎓 Estudante de **Engenharia de Computação** no **IFMT — Instituto Federal de Mato Grosso**
+- 💻 Estudando desenvolvimento de software
+- 🌱 Atualmente aprimorando meus conhecimentos em **Java, Python e C**
+- 🧠 Interessado em desenvolvimento backend, bancos de dados e arquitetura de software
+- 🎯 Meu objetivo é transformar conhecimento em soluções úteis e bem construídas
+- 🤝 Aberto a aprender, colaborar e trocar experiências
+- 📍 Mato Grosso, Brasil
+
+## 🚀 Tecnologias e ferramentas
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</p>
+
+## 📚 Atualmente estudando
+
+- Organização e planejamento de projetos de software
+- Otimização de código, algoritmos e uso de recursos
+- Estruturas de dados e resolução de problemas
+- Desenvolvimento backend com Java e Spring Boot
+- Python para automação, análise de dados e desenvolvimento
+- Boas práticas de código, versionamento com Git e trabalho colaborativo
+
+## 📊 Minha evolução no GitHub
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU-USUARIO&theme=github_dark"
+    alt="Histórico de contribuições"
+  >
+</p>
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br"
+    alt="Estatísticas do GitHub"
+  >
+</p>
+
+## 🌱 Minha jornada
+
+Ainda estou construindo meu portfólio público. Este perfil acompanha minha evolução, meus estudos e os projetos que desenvolverei ao longo do caminho.
+
+> “A melhor maneira de aprender programação é construindo, errando e tentando novamente.”
+
+## 📫 Contato
+
+<p>
+  <a href="https://linkedin.com/in/abdiel-abadil-308073284">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:abdiel.abadil@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/Abdiel352">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
