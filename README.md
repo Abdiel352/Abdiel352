@@ -38,19 +38,10 @@
 - Python para automação, análise de dados e desenvolvimento
 - Boas práticas de código, versionamento com Git e trabalho colaborativo
 
-## 📊 GitHub em números
+## 📈 Minha atividade no GitHub
 
 <p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Abdiel352&show_icons=true&hide_rank=true&theme=transparent&hide_border=true&locale=pt-br"
-    alt="Estatísticas do GitHub de Abdiel352"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdiel352&layout=compact&theme=transparent&hide_border=true&langs_count=6"
-    alt="Linguagens mais utilizadas por Abdiel352"
-  />
+  <img src="./assets/contribuicoes-por-ano.svg" alt="Contribuições por ano no GitHub">
 </p>
 
 ## 🌱 Minha jornada
