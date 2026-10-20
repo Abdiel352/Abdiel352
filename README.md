@@ -38,20 +38,26 @@
 - Python para automação, análise de dados e desenvolvimento
 - Boas práticas de código, versionamento com Git e trabalho colaborativo
 
-## 📊 Minha evolução no GitHub
+## 📊 GitHub em números
 
-## 📊 Minha evolução no GitHub
-
-![Histórico de contribuições](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdiel352&theme=github_dark)
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Abdiel352&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br)
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=Abdiel352&show_icons=true&hide_rank=true&theme=transparent&hide_border=true&locale=pt-br"
+    alt="Estatísticas do GitHub de Abdiel352"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdiel352&layout=compact&theme=transparent&hide_border=true&langs_count=6"
+    alt="Linguagens mais utilizadas por Abdiel352"
+  />
+</p>
 
 ## 🌱 Minha jornada
 
-Ainda estou construindo meu portfólio público. Este perfil acompanha minha evolução, meus estudos e os projetos que desenvolverei ao longo do caminho.
+Sou estudante de Engenharia de Computação no IFMT e utilizo este espaço para registrar minha evolução, meus estudos e os projetos que desenvolverei ao longo da graduação.
 
 > “A melhor maneira de aprender programação é construindo, errando e tentando novamente.”
-
 ## 📫 Contato
 
 <p>
