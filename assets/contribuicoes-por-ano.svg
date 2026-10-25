@@ -4,7 +4,7 @@
     Contribuições por ano
   </text>
   <text x="28" y="61" fill="#57606a" font-family="Segoe UI, Arial, sans-serif" font-size="13">
-    Atividade pública no GitHub · Atualizado em 20/10/2026
+    Atividade pública no GitHub · Atualizado em 25/10/2026
   </text>
   <g font-family="Segoe UI, Arial, sans-serif">
     
@@ -17,16 +17,16 @@
         <text x="108" y="154" fill="#24292f" font-size="16" font-weight="600">0</text>
       
         <text x="28" y="208" fill="#57606a" font-size="16">2024</text>
-        <rect x="92" y="188" width="79" height="28" rx="7" fill="#2da44e"/>
-        <text x="183" y="208" fill="#24292f" font-size="16" font-weight="600">72</text>
+        <rect x="92" y="188" width="77" height="28" rx="7" fill="#2da44e"/>
+        <text x="181" y="208" fill="#24292f" font-size="16" font-weight="600">72</text>
       
         <text x="28" y="262" fill="#57606a" font-size="16">2025</text>
-        <rect x="92" y="242" width="125" height="28" rx="7" fill="#2da44e"/>
-        <text x="229" y="262" fill="#24292f" font-size="16" font-weight="600">113</text>
+        <rect x="92" y="242" width="121" height="28" rx="7" fill="#2da44e"/>
+        <text x="225" y="262" fill="#24292f" font-size="16" font-weight="600">113</text>
       
         <text x="28" y="316" fill="#57606a" font-size="16">2026</text>
         <rect x="92" y="296" width="510" height="28" rx="7" fill="#2da44e"/>
-        <text x="614" y="316" fill="#24292f" font-size="16" font-weight="600">462</text>
+        <text x="614" y="316" fill="#24292f" font-size="16" font-weight="600">477</text>
       
   </g>
 </svg>
